@@ -31,8 +31,8 @@ http://xxx.xx.xx.xx:31580/
 
 # Jenkins Build
 enter the credentials and trigger a build of the website and the database to the cluster
-```bash
-click on the build to deploy the website and the database
+```
+input image here
 ```
 
 # check the pods
@@ -62,12 +62,11 @@ now to monitor the website get the external ip of the nodes and just add the por
 k get nodes
 
 Splunk:
-http://xxx.xx.xx.x:30007
+http://xxx.xx.xx.x:32756
 
 prometheus:
-http://xxx.xx.xx.xx
+http://172.104.37.95/targets?search=
 
 Grafana:
-http://xxx.xxx.xx.xx
+http://172.104.38.232/?orgId=1
 ```
-
