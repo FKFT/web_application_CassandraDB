@@ -1,7 +1,7 @@
 # Clone the repository
 first make sure that you have a copy of the repository on your local machine
 ```bash
-git clone https://github.com/opswerks-academy/i7-databases.git
+git clone https://github.com/COPY-OF-REPO.git
 ```
 
 # Connect to the Cluster
